@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-01/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-02/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-03/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-04/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-05/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-06/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-07/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-08/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-09/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-10/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-11/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-12/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-14/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-15/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-16/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-17/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-18/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-19/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/jpa-20/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/spring-data-jpa-01/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/spring-data-jpa-02/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/spring-data-jpa-03/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/spring-data-jpa-04/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-basic-main/spring-data-jpa-05/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
